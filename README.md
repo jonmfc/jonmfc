@@ -46,10 +46,6 @@
 
 ## 🧪 Notable Projects
 
-### 🎯 **InvestorAI**  
-> *AI-powered tool for stock outlooks, alerts, and market research*  
-Built with FastAPI + PostgreSQL + Liner API + Gemini + Swift frontend
-
 ### 🌐 **3D Ray Tracing in JS**  
 > *Custom GLSL shaders, WebGL, BVH acceleration, dynamic shadow mapping*  
 Rain particles, smooth camera transitions, and object animations
