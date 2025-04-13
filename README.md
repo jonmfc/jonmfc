@@ -1,17 +1,13 @@
 <h1 align="center">Hi, I'm Jon 👋</h1>
 <p align="center">CS @ UC Davis · ML Intern @ DSI Global · AI x Markets · Builder of Tools</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🧠 Summary
 
-- Software Engineer + ML Intern @ DSI Global (twice)
-- Founder of Mitel Stocks: built full-stack AI trading system
-- UC Davis CS major, Math minor. President of TechSprint Innovators
+- Software Engineer + ML Intern @ DSI Global 
+- Founder of MitelCorp Stocks: built full-stack AI trading system
+- UC Davis Computer Science major, President of TechSprint Innovators
 - Building real-time LLM pipelines, AI prediction models, and 3D raytracers
 - Python, C++, Flask, FastAPI, PostgreSQL, DistilBERT, CUDA, AWS
 
