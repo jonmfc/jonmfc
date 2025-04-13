@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jon 👋</h1>
-<p align="center">CS @ UC Davis · ML Intern @ DSI Global · AI x Markets · Builder of Tools</p>
+<p align="center">CS @ UC Davis · Fullstack Developer · Machine Learning & LLM Developer · Builder of Tools</p>
 
 ---
 
