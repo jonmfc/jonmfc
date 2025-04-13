@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Metrics](https://raw.githubusercontent.com/jonmfc/jonmfc/main/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=compact&theme=tokyonight)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jonmfc&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
