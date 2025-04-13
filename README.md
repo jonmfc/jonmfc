@@ -13,29 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jonmfc&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonmfc&theme=tokyonight&hide_border=true" />
-
-
-
-
-
-  <!-- Commits Per Week -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonmfc&theme=github_dark" />
-
-
-
-</p>
-
-
----
-
 ## 💼 Experience
 
 ### **DSI Global** — *Machine Learning Intern*  
