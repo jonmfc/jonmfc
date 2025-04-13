@@ -20,10 +20,67 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=compact&theme=tokyonight)
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonmfc&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jonmfc&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Language Pie -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonmfc&theme=tokyonight&hide_border=true" />
+
+  <!-- Trophy Shelf -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jonmfc&theme=algolia&margin-w=10" />
+
+  <!-- Snake Contribution Graph (Requires GitHub Action to generate) -->
+  <img src="https://raw.githubusercontent.com/jonmfc/jonmfc/output/github-contribution-grid-snake.svg" />
+
+  <!-- Metrics Classic -->
+  <img src="https://raw.githubusercontent.com/jonmfc/jonmfc/main/github-metrics.svg" />
+
+  <!-- Metrics Achievements -->
+  <img src="https://github.com/jonmfc/jonmfc/blob/main/metrics.plugin.achievements.svg" />
+
+  <!-- Metrics Reactions & Comments -->
+  <img src="https://github.com/jonmfc/jonmfc/blob/main/metrics.plugin.reactions.svg" />
+
+  <!-- Metrics Topics (Tags Cloud) -->
+  <img src="https://github.com/jonmfc/jonmfc/blob/main/metrics.plugin.topic.svg" />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=jonmfc&theme=react-dark" />
+
+  <!-- Simple Stat Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jonmfc&hide=stars&show_icons=true&theme=github_dark" />
+
+  <!-- Most Used Languages (Pie layout) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=pie&theme=gruvbox" />
+
+  <!-- Code Time via WakaTime (requires setup) -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jonmfc" />
+
+  <!-- Commits Per Hour -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jonmfc&theme=github_dark" />
+
+  <!-- Commits Per Week -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonmfc&theme=github_dark" />
+
+  <!-- Repo Stats Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonmfc&theme=monokai" />
+
+  <!-- Starred Repo Count -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jonmfc&theme=dracula" />
+
+  <!-- GitHub Followers Count -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jonmfc&count_private=true&show_icons=true&theme=tokyonight" />
+
+  <!-- Most Starred Repo -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonmfc&repo=YOUR_REPO_NAME_HERE&theme=tokyonight" />
+
+  <!-- Repo Contributions Badge -->
+  <img src="https://badgen.net/github/commits/jonmfc/YOUR_REPO_NAME_HERE" />
 </p>
+
 
 ---
 
