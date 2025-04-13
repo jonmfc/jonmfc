@@ -1,21 +1,19 @@
-<!-- Jon Mitelman GitHub Profile README -->
-
-<h1 align="center">Hey, I'm Jon 👋</h1>
-<p align="center">UC Davis CS Student · AI Builder · System Programmer · Market Explorer</p>
+<h1 align="center">Hi, I'm Jon 👋</h1>
+<p align="center">CS @ UC Davis · ML Intern @ DSI Global · AI x Markets · Builder of Tools</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Summary
 
-- 🧠 Building AI-driven trading tools, shell environments, and automation systems  
-- 🛠️ Skilled in Python, C, Swift, FastAPI, PostgreSQL, and React Native  
-- 🧰 Always exploring clean systems, minimal UIs, and market edge  
-- 📡 Currently hacking on backend tools + a Swift mobile app  
-- 🧩 Previously: AI internships, CUDA/GPUs, prompt engineering workflows  
+- Software Engineer + ML Intern @ DSI Global (twice)
+- Founder of Mitel Stocks: built full-stack AI trading system
+- UC Davis CS major, Math minor. President of TechSprint Innovators
+- Building real-time LLM pipelines, AI prediction models, and 3D raytracers
+- Python, C++, Flask, FastAPI, PostgreSQL, DistilBERT, CUDA, AWS
 
 ---
 
@@ -29,56 +27,51 @@
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-</p>
+### **DSI Global** — *Machine Learning Intern*  
+**June 2024 – Present · Redwood City, CA**  
+- Built a Flask app visualizing consumer transaction patterns, hosted on AWS EC2  
+- Fine-tuned LSTM fraud detection model, optimized with CUDA  
+- Designed logistic regression baseline + deployed GPU-accelerated ML models  
+- Cleaned and filtered datasets with SQL pipelines for large-scale ML  
+- Wrote C++ REST API using Crow for high-speed analytics access  
 
----
+### **Mitel Corp Stocks** — *Founder & Lead Developer*  
+**June 2023 – Present · Remote**  
+- Full-stack platform for paper trading, stock news scraping, and prediction  
+- Used Flask, PostgreSQL, DistilBERT, and Torch to build trading algorithms  
+- Built sentiment-labeled dataset with GPT-4 and trained multiple AI models  
+- Developed a TFT stock picker and media impact prediction pipeline  
+- Engineered real-time email-authenticated login system with session handling  
 
-## 🧠 Highlight Projects
+### **DSI Global** — *Software Engineer Intern*  
+**June 2023 – Sep 2023**  
+- Built ecommerce trend analyzer with Django, PyMongo, and Seaborn  
+- Led data transformation efforts across PySpark and MQL stacks  
+- Partnered with clients and engineers to define and test analytics tools  
 
-### 🔺 AI-Powered Stock Sprint  
-> *Building a trading assistant that analyzes sentiment, volatility, and AI-generated theses for investing*  
-`FastAPI + PostgreSQL + Liner API + Gemini + Notifications`  
-
-### 🐚 sshell – Custom UNIX Shell in C  
-> *Implements fork, exec, wait, and argument parsing in a minimal C shell clone*  
-`System programming + ECS 150 + autograder tested`
-
-### 💪 Mobile Workout Tracker (Swift)  
-> *Tracks workout splits, analytics, rest days, and logs. Apple aesthetic.*  
-`Swift + SwiftUI + Local storage → Firebase`
+### **Northern California College Promise Coalition** — *Web Dev Intern*  
+**Apr 2021 – May 2021**  
+- Rebuilt nonprofit's youth-oriented site UI using VMs and device testing  
+- Helped build web strategies for youth outreach and engagement  
 
 ---
 
-## 📡 Connect With Me
+## 🧪 Notable Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonmitelman/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jon@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+### 🎯 **InvestorAI**  
+> *AI-powered tool for stock outlooks, alerts, and market research*  
+Built with FastAPI + PostgreSQL + Liner API + Gemini + Swift frontend
 
----
+### 🌐 **3D Ray Tracing in JS**  
+> *Custom GLSL shaders, WebGL, BVH acceleration, dynamic shadow mapping*  
+Rain particles, smooth camera transitions, and object animations
 
-## 🧭 Fun Stats
+### 🧪 **L-Store Database Architecture**  
+> *Python-built OLTP/OLAP hybrid with threading, lineage-based storage*  
+Modeled after cutting-edge research papers with full test suite
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonmitelman&label=PROFILE+VIEWS&color=blue&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <em>"Build tools you wish you had. Automate what you hate. Keep the design clean."</em>
-</p>
+### 🌁 **SF Air Quality Data Analysis (R)**  
+> *Analyzed emissions data from SF using public environmental datasets*  
+Detected discrepancies in wastewater CO
