@@ -41,19 +41,3 @@
 **Apr 2021 – May 2021**  
 - Rebuilt nonprofit's youth-oriented site UI using VMs and device testing  
 - Helped build web strategies for youth outreach and engagement  
-
----
-
-## 🧪 Notable Projects
-
-### 🌐 **3D Ray Tracing in JS**  
-> *Custom GLSL shaders, WebGL, BVH acceleration, dynamic shadow mapping*  
-Rain particles, smooth camera transitions, and object animations
-
-### 🧪 **L-Store Database Architecture**  
-> *Python-built OLTP/OLAP hybrid with threading, lineage-based storage*  
-Modeled after cutting-edge research papers with full test suite
-
-### 🌁 **SF Air Quality Data Analysis (R)**  
-> *Analyzed emissions data from SF using public environmental datasets*  
-Detected discrepancies in wastewater CO
