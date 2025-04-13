@@ -28,18 +28,11 @@
 
 
 
-  <!-- Metrics Classic -->
-  <img src="https://raw.githubusercontent.com/jonmfc/jonmfc/main/github-metrics.svg" />
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=jonmfc&theme=react-dark" />
 
   <!-- Commits Per Week -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonmfc&theme=github_dark" />
 
-
-  <!-- Most Starred Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonmfc&repo=YOUR_REPO_NAME_HERE&theme=tokyonight" />
 
 
 </p>
