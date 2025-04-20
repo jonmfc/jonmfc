@@ -13,31 +13,35 @@
 
 ---
 
-## 💼 Experience
+## 📌 Projects
 
-### **DSI Global** — *Machine Learning Intern*  
-**June 2024 – Present · Redwood City, CA**  
-- Built a Flask app visualizing consumer transaction patterns, hosted on AWS EC2  
-- Fine-tuned LSTM fraud detection model, optimized with CUDA  
-- Designed logistic regression baseline + deployed GPU-accelerated ML models  
-- Cleaned and filtered datasets with SQL pipelines for large-scale ML  
-- Wrote C++ REST API using Crow for high-speed analytics access  
+### 📰 [News Headline Analyzer](https://huggingface.co/spaces/jonmfc/Headline_Analyzer)
+**Analyze news headlines for sentiment, urgency, controversy, intensity, and topic category.**
+- Built on Hugging Face Spaces using Gradio.
+- Fine-tuned DistilBERT model with multi-task learning: regression + multi-label classification.
+- Optimized for real-time headline-scale inference on low compute.
+- Custom edge-case weighting and sample stratification during training.
+- Data sourced from 350K+ cleaned news headlines; labeled via ChatGPT with hallucination suppression.
 
-### **Mitel Corp Stocks** — *Founder & Lead Developer*  
-**June 2023 – Present · Remote**  
-- Full-stack platform for paper trading, stock news scraping, and prediction  
-- Used Flask, PostgreSQL, DistilBERT, and Torch to build trading algorithms  
-- Built sentiment-labeled dataset with GPT-4 and trained multiple AI models  
-- Developed a TFT stock picker and media impact prediction pipeline  
-- Engineered real-time email-authenticated login system with session handling  
+> Example inputs:  
+> • “Massive magnitude 7 earthquake strikes off California coast”  
+> • “Tech company launches revolutionary AI product”  
+> • “Pig Kidney Transplant Gives Hope to US Woman Who Donated Own to Her Mother”
 
-### **DSI Global** — *Software Engineer Intern*  
-**June 2023 – Sep 2023**  
-- Built ecommerce trend analyzer with Django, PyMongo, and Seaborn  
-- Led data transformation efforts across PySpark and MQL stacks  
-- Partnered with clients and engineers to define and test analytics tools  
+---
 
-### **Northern California College Promise Coalition** — *Web Dev Intern*  
-**Apr 2021 – May 2021**  
-- Rebuilt nonprofit's youth-oriented site UI using VMs and device testing  
-- Helped build web strategies for youth outreach and engagement  
+### 🕹️ Real-Time Ray Tracer (WebGL + GLSL)
+**GPU-optimized interactive 3D scene with ray tracing and dynamic lighting.**
+- Built with WebGL and custom GLSL shaders for reflections, refractions, and shadows.
+- Implemented BVH acceleration and animated rain particles.
+- Smooth third-person camera transitions and high-fidelity visual effects.
+
+---
+
+### 🧪 L-Store Hybrid Database Architecture (Python) (https://github.com/jonmfc/Lineage-Based-Architecture-Database)
+**Research-based OLTP/OLAP system implemented in Python.**
+- Lineage-based storage engine with parallel processing and multithreading.
+- Supports high-throughput transactional writes and analytical reads.
+- Fully tested across query, merge, and insert operations.
+
+---
