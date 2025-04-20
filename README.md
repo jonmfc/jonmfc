@@ -38,7 +38,7 @@
 
 ---
 
-### 🧪 L-Store Hybrid Database Architecture(https://github.com/jonmfc/Lineage-Based-Architecture-Database) (Python)
+### 🧪 [L-Store Hybrid Database Architecture]https://github.com/jonmfc/Lineage-Based-Architecture-Database
 **Research-based OLTP/OLAP system implemented in Python.**
 - Lineage-based storage engine with parallel processing and multithreading.
 - Supports high-throughput transactional writes and analytical reads.
