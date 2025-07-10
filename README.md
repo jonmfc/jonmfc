@@ -4,12 +4,13 @@
 ---
 
 ## 🧠 Summary
-
-- Software Engineer + ML Intern @ DSI Global 
+_ FullStack Software Dev @ Casca
+_ Software Developer iOS & Backend @ Liner
+- Ex Software Engineer + ML Intern @ DSI Global 
 - Founder of MitelCorp Stocks: built full-stack AI trading system
 - UC Davis Computer Science major, President of TechSprint Innovators
 - Building real-time LLM pipelines, AI prediction models, and 3D raytracers
-- Python, C++, Flask, FastAPI, PostgreSQL, DistilBERT, CUDA, AWS
+- Python, TypeScript, ,C++, Flask, FastAPI, PostgreSQL, DistilBERT, CUDA, AWS
 
 ---
 
