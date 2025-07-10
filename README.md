@@ -5,7 +5,9 @@
 
 ## 🧠 Summary
 _ FullStack Software Dev @ Casca
+
 _ Software Developer iOS & Backend @ Liner
+
 - Ex Software Engineer + ML Intern @ DSI Global 
 - Founder of MitelCorp Stocks: built full-stack AI trading system
 - UC Davis Computer Science major, President of TechSprint Innovators
