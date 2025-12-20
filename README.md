@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jon 👋</h1>
-<p align="center">CS @ UC Davis · Fullstack Developer · Machine Learning & LLM Developer · Builder of Tools</p>
+<p align="center">Software Engineer @ Casca · Fullstack/IOS Dev · ML & Applies LLMs Dev · Builder of Tools</p>
 
 ---
 
@@ -7,6 +7,7 @@
 - FullStack Software Engineer @ Casca
 - Ex Software Developer iOS & Backend @ Liner
 - Ex Software Engineer + ML Intern @ DSI Global
+- Ex President of [Techsprint Innovators](https://www.linkedin.com/company/techsprint-innovators/) 
 - Founder of MitelCorp Stocks: built full-stack AI trading system
 - UC Davis Computer Science major, President of TechSprint Innovators
 - Building real-time LLM pipelines, AI prediction models, and 3D raytracers
