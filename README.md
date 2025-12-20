@@ -11,11 +11,14 @@
 - Founder of MitelCorp Stocks: built full-stack AI trading system
 - UC Davis Computer Science major, President of TechSprint Innovators
 - Building real-time LLM pipelines, AI prediction models, and 3D raytracers
-- Python, TypeScript, ,C++, Flask, FastAPI, PostgreSQL, DistilBERT, CUDA, AWS
+- Python, TypeScript, React, C++, Flask, FastAPI, PostgreSQL, CUDA, AWS
 
 ---
 
 ## 📌 Projects
+### Law
+**Revolutionizing the world of law**
+- Stealth
 
 ### 📰 [News Headline Analyzer](https://huggingface.co/spaces/jonmfc/Headline_Analyzer)
 **Analyze news headlines for sentiment, urgency, controversy, intensity, and topic category.**
