@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jon 👋</h1>
-<p align="center">Software Engineer @ Casca · Fullstack/IOS Dev · ML & LLMs Application Dev · Active Cursor, Claude Code & Codex User</p>
+<p align="center">Software Engineer @ Casca · Fullstack/IOS Dev · ML & LLMs Application Dev · Active Cursor, Claude Code & Codex Prompter</p>
 
 ---
 
