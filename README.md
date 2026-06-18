@@ -5,10 +5,10 @@
 
 ## 🧠 Summary
 - FullStack Software Engineer @ Casca
-- Ex Software Developer iOS & Backend @ Liner
+- Ex SWE @ Liner - Founding StockSprint
 - Ex Software Engineer + ML Intern @ DSI Global
 - Ex President of [Techsprint Innovators](https://www.linkedin.com/company/techsprint-innovators/) 
-- Founder of StockSprint (w/ Liner) & MitelCorp Stocks: built full-stack AI trading systems
+- MitelCorp Stocks: built full-stack AI trading systems
 - UC Davis Computer Science
 - Building real-time LLM pipelines, AI prediction models, and 3D raytracers
 - Python, TypeScript, React, C++, Flask, FastAPI, PostgreSQL, CUDA, AWS
