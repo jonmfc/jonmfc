@@ -38,7 +38,7 @@ More on [LinkedIn](https://www.linkedin.com/in/jonathan-mitelman/) · [Casca tea
 
 **Infra & tooling:** AWS (EC2, RDS) · Docker · CUDA/GPU training · Git · pytest · Selenium scraping
 
-**Domains:** fintech/lending · legal/professional services SaaS · trading & market analytics · 3D graphics
+**Domains:** fintech/lending · trading & market analytics · 3D graphics
 
 ---
 
@@ -58,7 +58,6 @@ More on [LinkedIn](https://www.linkedin.com/in/jonathan-mitelman/) · [Casca tea
 - **Liner / StockSprint** — Founded stock analysis app; led 4 engineers; FastAPI + PostgreSQL + iOS/Android
 - **DSI Global** — SWE + ML intern · Flask/Django data viz · RNN/logistic regression · AWS GPU training
 - **TechSprint Innovators** — President & Head SWE · InvestorAI, Recipezy, 65-member org
-- **Independent** — Full-stack multi-tenant SaaS: intake forms, RBAC, billing, doc generation, client portals
 - **UC Davis** — B.S. Computer Science (graduated a year early)
 
 ---
