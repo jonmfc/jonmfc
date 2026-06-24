@@ -42,16 +42,6 @@ A few things that define how I work:
 
 ---
 
-## Writing & perspectives
-
-| Topic | Post |
-|-------|------|
-| Graduating early, onsite with bankers, shipping LLM workflows in production | [LLMs · AI · Fintech · Series A](https://www.linkedin.com/posts/jonathan-mitelman_llms-ai-fintech-activity-7366238465870471168-F4nd) |
-| Why creativity and context beat model hype | [AI plateau @ Arm Create](https://www.linkedin.com/posts/jonathan-mitelman_ai-arm-sf-activity-7461502158597910528-LKOe) |
-| Leading a student org & shipping InvestorAI | [TechSprint team update](https://www.linkedin.com/posts/jonathan-mitelman_im-extremely-proud-of-the-work-my-team-is-activity-7186518257909063681-qfT0) |
-
----
-
 ## Experience snapshot
 
 - **Casca**: Software Engineer · AI-native loan origination · document generation · production LLM pipelines
