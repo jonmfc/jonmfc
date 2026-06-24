@@ -57,7 +57,7 @@ More on [LinkedIn](https://www.linkedin.com/in/jonathan-mitelman/) · [Casca tea
 - **Casca** — Software Engineer · AI-native loan origination · document generation · production LLM pipelines
 - **Liner / StockSprint** — Founded stock analysis app; led 4 engineers; FastAPI + PostgreSQL + iOS/Android
 - **DSI Global** — SWE + ML intern · Flask/Django data viz · RNN/logistic regression · AWS GPU training
-- **TechSprint Innovators** — President & Head SWE · InvestorAI, Recipezy, 65-member org
+- **TechSprint Innovators** — President & Head SWE · InvestorAI, 65-member org
 - **UC Davis** — B.S. Computer Science (graduated a year early)
 
 ---
