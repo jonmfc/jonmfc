@@ -10,23 +10,6 @@
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonmfc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=jonmfc&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=24292f&sideLabels=24292f&currStreakNum=0969DA&sideNums=24292f&dates=57606a" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmfc&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&langs_count=8" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonmfc&theme=minimal&color=0969da&hide_border=true&bg_color=ffffff&point=24292f&area=true&height=300" alt="Contribution graph" />
-</p>
-
----
-
 ## Who I am
 
 I build software end-to-end, from schema design and auth to polished UIs and production LLM workflows. I like sitting close to users, shipping fast, and making systems that hold up when real people depend on them.
