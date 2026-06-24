@@ -33,11 +33,11 @@ I build software end-to-end, from schema design and auth to polished UIs and pro
 
 A few things that define how I work:
 
-- **Founder energy, engineer discipline.** I grew [TechSprint Innovators](https://www.linkedin.com/company/techsprint-innovators/) from zero to 65+ members and led full-stack builds across ML, mobile, and web. [→ building with the team](https://www.linkedin.com/posts/jonathan-mitelman_im-extremely-proud-of-the-work-my-team-is-activity-7186518257909063681-qfT0)
-- **Forward-deployed mindset.** I graduated a year early from UC Davis CS while already onsite with bankers, shaping product from day one. [→ graduation, Series A & building in fintech](https://www.linkedin.com/posts/jonathan-mitelman_llms-ai-fintech-activity-7366238465870471168-F4nd)
-- **Context over hype.** Models keep improving, but knowing *what* to build and *why* matters more every month. [→ creativity & context at Arm Create](https://www.linkedin.com/posts/jonathan-mitelman_ai-arm-sf-activity-7461502158597910528-LKOe)
+- **Founder energy, engineer discipline.** I grew [TechSprint Innovators](https://www.linkedin.com/company/techsprint-innovators/) from zero to 65+ members and led full-stack builds across ML, mobile, and web. [I wrote about leading the team on LinkedIn.](https://www.linkedin.com/posts/jonathan-mitelman_im-extremely-proud-of-the-work-my-team-is-activity-7186518257909063681-qfT0)
+- **Forward-deployed mindset.** I graduated a year early from UC Davis CS while already onsite with bankers, shaping product from day one. [Post on graduating early and building in fintech.](https://www.linkedin.com/posts/jonathan-mitelman_llms-ai-fintech-activity-7366238465870471168-F4nd)
+- **Context over hype.** Models keep improving, but knowing *what* to build and *why* matters more every month. [Notes from an Arm Create panel on creativity and context.](https://www.linkedin.com/posts/jonathan-mitelman_ai-arm-sf-activity-7461502158597910528-LKOe)
 
-More on [LinkedIn](https://www.linkedin.com/in/jonathan-mitelman/) · [Casca team spotlight](https://www.linkedin.com/posts/cascading-ai_team-spotlight-jonathan-mitelman-we-activity-7388637168577015808-7KkC)
+[LinkedIn](https://www.linkedin.com/in/jonathan-mitelman/) · [Casca team spotlight](https://www.linkedin.com/posts/cascading-ai_team-spotlight-jonathan-mitelman-we-activity-7388637168577015808-7KkC)
 
 ---
 
